@@ -1,7 +1,7 @@
 import yfinance as yf
 import streamlit as st
 st.write("""
-#  Stock closing price of Tesla """)
+##  Stock closing price of Tesla """)
 tickerSymbol = 'TSLA'
 tickerData = yf.Ticker(tickerSymbol)
 from datetime import date
