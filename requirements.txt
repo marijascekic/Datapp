@@ -2,3 +2,6 @@ streamlit
 numpy 
 pandas
 yfinance
+base64
+matplotlib.pyplot 
+seaborn
